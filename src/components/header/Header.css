@@ -1,0 +1,17 @@
+.header-container {
+  background-color: #ff0;
+  color: #000;
+  font-size: 1.1rem;
+  display: flex;
+}
+
+.header-container h1 {
+  margin-left: 1rem;
+}
+
+@media screen and (max-width: 600px) {
+  .header-container {
+    align-items: center;
+    justify-content: center;
+  }
+}

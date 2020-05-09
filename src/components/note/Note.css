@@ -1,0 +1,12 @@
+.note {
+  max-width: 300px;
+  background-color: #eee;
+  border: 1px solid #000;
+  border-radius: 0.5rem;
+  margin: 1rem;
+  display: flex;
+  flex-flow: column wrap;
+  box-shadow: 3px 5px 0 #444;
+  align-self: stretch;
+  padding: 0.5rem;
+}
